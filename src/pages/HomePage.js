@@ -134,7 +134,7 @@ function HomePage() {
                                         <h2 className=" fw-bolder" data-aos="zoom-in-up"><span className="text-gradient d-inline" >About Me</span></h2>
 
                                         <p className="text-muted" data-aos="zoom-in-up">
-                                            My name is <h1 className='fs-5 text-dark fw-bold'>Solomon Eshetu</h1>I graduated from Dilla University in 2024 with a BSc in Computer Science. I love programming and am proficient in several programming languages, including Java, JavaScript, PHP, and C#. I have experience working with frameworks such as ASP.NET and ReactJS. I have completed many projects using these tools and hold various certificates in addition to my BSc.</p>
+                                            My name is <h1 className='fs-5 text-dark fw-bold'>Solomon Eshetu</h1>I graduated from Dilla University in 2024 with a BSc in Computer Science. I am proficient in several programming languages, including Java, JavaScript, PHP, and C#. I have experience working with frameworks such as ASP.NET and ReactJS. I have completed many projects using these tools and hold various certificates in addition to my BSc.</p>
                                         <div className="d-flex justify-content-center fs-2 gap-4" data-aos="zoom-in-up">
                                             <a className="text-gradient" href="https://x.com/sele_4121?s=09" target='"https://x.com/sele_4121?s=09'><i class="fa-brands fa-twitter"></i></a>
                                             {/* <a className="text-gradient" href="#!"><i className="bi bi-linkedin" /></a> */}
